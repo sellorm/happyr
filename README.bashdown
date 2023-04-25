@@ -1,0 +1,40 @@
+# happyr - "fitR, happyR"
+
+Brings R's {styler} and {lintr} packages to the command line.
+
+Make your R code fitR and happyR with the happyR cli tool.
+
+
+## Installation
+
+Install from PyPI:
+
+```bash
+# python3 -m pip install happyr
+```
+
+
+## Usage
+
+```bash
+happyr --help
+```
+
+To style with {styler}:
+
+```bash
+happyr style --help
+```
+
+To lint with {lintr}:
+
+```bash
+happyr lint --help
+```
+
+
+
+## License
+
+MIT (c) Mark Sellors
+
